@@ -17,56 +17,65 @@
   </a>
 </p>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+# 🚀 Inveto — Smart Inventory & Store Management App
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
+Inveto is a modern, cross-platform inventory and store management application built with **Flutter** 🦋.  
+It helps small businesses, shop owners, and retail managers efficiently track products, stores, and daily operations — all from a single mobile app.
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+---
 
-## Introduction
+## 💡 What Is Inveto?
 
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
+Inveto simplifies **inventory control and store organization** by providing intuitive tools for managing products, stores, and users.
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with Flutter, Inveto is an eased inventroy management application designed for end-to-end store tracking.
-**Available for both iOS and Android.**
+Whether you manage one store or multiple outlets, Inveto helps you stay organized and in control.
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/e59f1f37-a454-4b17-a221-2e978c0d3bf9" alt="logo" width="350">
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-    <h1>Features</h1>
+---
 
-    Inveto offers a variety of features to streamline store management and inventory control:
+## ✨ Features
 
-    - **Store Management**: Add, remove, and update store details.
-    - **Product Management**: Register new products, update details, and manage inventory.
-    - **QR Code Integration**: Register products using QR codes for quick access and management.
-    - **User Authentication**: Secure login and account creation for access to app features.
-    - **Multi-user Access Control**: Manage access requests and permissions between users.
-    - **Profile Management**: Update user profile information and settings.
+### 🏬 Store Management
+- Add, update, and remove stores
+- View and manage multiple stores from one dashboard
 
-    ## Build Process
+### 📦 Product Management
+- Add new products with details
+- Update stock quantity and pricing
+- Organize products efficiently
 
-    To set up and run Inveto locally, follow these steps:
+### 🕵️ QR Code Integration
+- Scan QR codes to instantly view or register products
 
-    - Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to install Flutter and set up your development environment.
-    - Clone this repository.
-    - Navigate to the project directory.
-    - Run `flutter pub get` to install dependencies.
-    - Connect a physical device or start an emulator.
-    - Run the app using `flutter run`.
+### 👤 User Authentication
+- Secure login and signup
+- User profile management
 
-    For advanced setup and troubleshooting tips, refer to the [contributing guidelines](./CONTRIBUTING.md).
-  </div>
+### 🔐 Roles & Permissions
+- Control access for staff and owners
+- Role-based feature availability
+
+### 📱 Responsive UI
+- Smooth and clean UI for both Android & iOS
+- Real-time data updates
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – Cross-platform UI framework  
+- **Dart** – Application logic  
+- Supports **Android** and **iOS**  
+- Easily extendable to Web & Desktop
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run Inveto locally:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/knokvik/Inveto
+
 </div>
+
