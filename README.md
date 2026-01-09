@@ -77,5 +77,6 @@ Follow these steps to run Inveto locally:
 ```bash
 git clone https://github.com/knokvik/Inveto
 
-</div>
+
+
 
